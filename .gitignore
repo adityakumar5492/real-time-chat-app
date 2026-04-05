@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# Logs
+logs
+*.log
+
+# Uploads (optional)
+uploads/
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+*.swp
