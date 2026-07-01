@@ -30,3 +30,5 @@ export const initSocket = (server) => {
 export const getReceiverSocketId = (userId) => {
   return userSocketMap[userId];
 };
+
+export { io };
